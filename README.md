@@ -4,13 +4,13 @@
 
 University project
 
+May 2021 - June 2021
+
 Slitherlink is a puzzle game programmed in Python in which the player, on a grid, must draw lines between points
 to form a single loop respecting indices (from 0 to 3) which indicate how many lines surround
 a box.
 
 (The in-game menus are in French)
-
-Date : May 2021 - June 2021
 
 ## Specific Features
 
@@ -81,13 +81,13 @@ When the solver (graphical or not) finds a solution, a console message appears. 
 
 Projet Universitaire
 
+Mai 2021 - Juin 2021
+
 Le Slitherlink est un jeu de réflexion programmé en Python dans lequel le joueur, sur une grille, doit tracer des lignes entre des points
 pour former une boucle unique en respectant des indices (de 0 à 3) qui indiquent combien de lignes entourent
 une case.
 
 (Les menus en jeu sont en Français)
-
-Date : Mai 2021 - Juin 2021
 
 ## Fonctionnalités spécifiques
 
