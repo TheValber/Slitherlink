@@ -1,5 +1,3 @@
----
-
 # Slitherlink [EN]
 
 University project
@@ -149,6 +147,3 @@ Ce bouton permet de revenir sur le menu.
 ### Console
 
 Lorsque le solveur (graphique ou non) trouve une solution, un message en console apparaît. Il indique le temps, en secondes, de résolution de la grille par le solveur.
-
-
----
